@@ -11,7 +11,7 @@ func _init():
 	value = 2
 	description = "When <text_color_keyword>destroyed<end>, you are <text_color_keyword><value_1>x<end> more likely to find <text_color_uncommon>Uncommon<end>, <text_color_rare>Rare<end>, and <text_color_very_rare>Very Rare<end> symbols at the end of this spin."
 	localized_descriptions = {}
-	values = [3]
+	values = [5]
 	rarity = "uncommon"
 	groups = ["anvillikes", "booze", "darkhumor", "dwarflikes", "food", "rarity_mod"]
 	sfx = []

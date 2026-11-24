@@ -8,7 +8,7 @@ func _init():
 	inherit_groups = false
 	display_name = "Cellar"
 	localized_names = {}
-	description = "<icon_whiskey> <group_countdownbooze> and <last_countdownbooze> take <text_color_keyword>4<end> fewer spins to trigger their effects. <icon_sommelier> <text_color_keyword>destroys<end> <group_booze> and <last_booze> in <text_color_keyword>4<end> fewer spins."
+	description = "<icon_whiskey> <group_countdownbooze> and <last_countdownbooze> take <text_color_keyword>4<end> fewer spins to trigger their effects."
 	localized_descriptions = {}
 	values = []
 	rarity = "common"

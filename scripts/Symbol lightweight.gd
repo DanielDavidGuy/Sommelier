@@ -42,6 +42,7 @@ func _init():
 		{
 			"effect_type": "adjacent_symbols",
 			"comparisons": [
+				{"a": "type", "b": "empty"},
 				{"a": "groups", "b": "dwarflikes"},
 				{"a": "destroyed", "b": true},
 			], 

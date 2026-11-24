@@ -23,7 +23,7 @@ func _init():
 		]}
 	}
 	rarity = "common"
-	groups = ["anvillikes", "booze", "darkhumor", "dwarflikes", "food", "farmerlikes"]
+	groups = ["anvillikes", "booze", "darkhumor", "dwarflikes", "food"]
 	sfx = []
 	effects = [
 		{
